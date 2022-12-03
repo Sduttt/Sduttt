@@ -14,9 +14,10 @@
 ```javascript
 const subham = {
   pronouns: "he" | "him",
-  skills: [HTML, CSS, JavaScript, React, Tailwind, Bootstrap],
-  education: B.Tech,
-  hobby: [code, books, music, movies]
+  skills: ["HTML", "CSS", "JavaScript", "React", "Tailwind", "Bootstrap"],
+  education: "B.Tech",
+  hobby: ["code", "books", "music", "movies"],
+  email: "subhamdutta588@gmail.com"
 }
 ```
 
@@ -24,8 +25,6 @@ const subham = {
 
 ---
 <br>
-<div style="text-align: center;">
 
-[![Linkedin](./images/icons8-linkedin-50.png)](https://www.linkedin.com/in/subham-dutta-8670b8178/) [![Twitter](./images/icons8-twitter-50.png)](https://twitter.com/Subhamd88404337) [![Hashnode](./images/icons8-hashnode-50.png)](https://sdutta.hashnode.dev/) [![Github](./images/icons8-github-50.png)](https://github.com/Sduttt) [![Instagram](./images/icons8-instagram-50.png)](https://www.instagram.com/its_subham_dutta/) [![Telegram](./images/icons8-telegram-app-50.png)](https://t.me/Mr_dutt) [![Gmail](./images/icons8-gmail-logo-48.png)](subhamdutta588@gmail.com)
 
-</div>
+[![Linkedin](./images/icons8-linkedin-50.png)](https://www.linkedin.com/in/subham-dutta-8670b8178/) [![Twitter](./images/icons8-twitter-50.png)](https://twitter.com/Subhamd88404337) [![Hashnode](./images/icons8-hashnode-50.png)](https://sdutta.hashnode.dev/) [![Github](./images/icons8-github-50.png)](https://github.com/Sduttt) [![Instagram](./images/icons8-instagram-50.png)](https://www.instagram.com/its_subham_dutta/) [![Telegram](./images/icons8-telegram-app-50.png)](https://t.me/Mr_dutt) 
