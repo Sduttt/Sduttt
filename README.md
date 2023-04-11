@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif" width="230" >
 <br>
-<p><em>I'm Learning Full-Stack JavaScript Development. Sometimes I write articles on <a href="https://sdutta.hashnode.dev/">Hashnode</a>
+<p><em>I'm Learning Full-Stack Web Development. Sometimes I write articles on <a href="https://sdutta.hashnode.dev/">Hashnode</a>
 </em></p>
 <br>
 
@@ -14,7 +14,7 @@
 ```javascript
 const subham = {
   pronouns: "he" | "him",
-  skills: ["HTML", "CSS", "JavaScript", "React", "Tailwind", "Bootstrap"],
+  tools&technologies: ["HTML", "CSS", "JavaScript", "Typescript", "React", "Tailwind", "Bootstrap", "NodeJS", "Express", "MongoDB", "Git", "GitHub", "VS Code" ],
   education: "B.Tech",
   hobby: ["code", "books", "music", "movies"],
   email: "subhamdutta588@gmail.com",
@@ -23,7 +23,7 @@ const subham = {
 ```
 ![](https://komarev.com/ghpvc/?username=Sduttt)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people, so if you want to say i, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people, so if you want to say Hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 <br>
