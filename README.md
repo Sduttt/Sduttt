@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif" width="230" >
 <br>
-<p><em>I'm Learning Full-Stack Web Development. Sometimes I write articles on <a href="https://sdutta.hashnode.dev/">Hashnode</a>
+<p><em>I'm a web developer. Sometimes I write articles on <a href="https://sdutta.hashnode.dev/">Hashnode</a>. Currently focusing on learning various new technologies and mastering them. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 <br>
 
@@ -14,7 +14,12 @@
 ```javascript
 const subham = {
   pronouns: "he" | "him",
-  tools&technologies: ["HTML", "CSS", "JavaScript", "Typescript", "React", "Tailwind", "Bootstrap", "NodeJS", "Express", "MongoDB", "Git", "GitHub", "VS Code" ],
+  tools&technologies: [
+   "HTML", "CSS", "Tailwind",
+   "JavaScript", "Typescript", "React", "NextJS",
+   "PHP", "Java", "SQL",
+   "Git", "GitHub", "VS Code"
+   ],
   education: "B.Tech",
   hobby: ["code", "books", "music", "movies"],
   email: "subhamdutta588@gmail.com",
@@ -29,4 +34,4 @@ const subham = {
 <br>
 
 
-[![Website](./images/icons8-internet-48.png)](https://sduttt.netlify.app/)[![Linkedin](./images/icons8-linkedin-50.png)](https://www.linkedin.com/in/subham-dutta-8670b8178/) [![Twitter](./images/icons8-twitter-50.png)](https://twitter.com/Subhamd88404337) [![Hashnode](./images/icons8-hashnode-50.png)](https://sdutta.hashnode.dev/) [![Github](./images/icons8-github-50.png)](https://github.com/Sduttt) [![Instagram](./images/icons8-instagram-50.png)](https://www.instagram.com/its_subham_dutta/) [![Telegram](./images/icons8-telegram-app-50.png)](https://t.me/Mr_dutt) 
+[![Website](./images/icons8-internet-48.png)](https://sduttt.netlify.app/)[![Linkedin](./images/icons8-linkedin-50.png)](https://www.linkedin.com/in/sduttt/) [![Twitter](./images/icons8-twitterx-50.png)](https://twitter.com/sdutttttt) [![Hashnode](./images/icons8-hashnode-50.png)](https://sdutta.hashnode.dev/) [![Github](./images/icons8-github-50.png)](https://github.com/Sduttt) [![Instagram](./images/icons8-instagram-50.png)](https://www.instagram.com/sdutttttt/) [![Telegram](./images/icons8-telegram-app-50.png)](https://t.me/Mr_dutt) 
