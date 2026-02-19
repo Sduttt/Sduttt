@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif" width="230" >
 <br>
-<p><em>I'm a web developer. Sometimes I write articles on <a href="https://sdutta.hashnode.dev/">Hashnode</a>. Currently focusing on learning various new technologies and mastering them. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>I’m a Frontend Developer who occasionally writes technical articles on <a href="https://sdutta.hashnode.dev/">Hashnode</a>. Currently, I’m focused on learning React Native and looking to join an organization where I can apply and grow my skills. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 <br>
 
@@ -16,11 +16,26 @@ const subham = {
   pronouns: "he" | "him",
   tools&technologies: [
    "HTML", "CSS", "Tailwind",
-   "JavaScript", "Typescript", "React", "NextJS",
+   "JavaScript", "Typescript", 
+   "React", "React Native" "NextJS",
    "PHP", "Java", "SQL",
    "Git", "GitHub", "VS Code"
    ],
   education: "B.Tech",
+  experience: [
+    {
+      organization: "Inadev India",
+      role: "Associate Product Configurator",
+      duration: "Jan 2025 - Present",
+      description: "Configure web and nativve applications using inhouse low-code platform 'CEEBIT'"
+    },
+    {
+      organization: "DeeGlory Solutions",
+      role: "Web Developer",
+      duration: "May 2024 - Jan 2025",
+      description: "Design website/funnels and configure workflow automations using GoHighLevel CRM"
+    }
+  ]
   hobby: ["code", "books", "music", "movies"],
   email: "subhamdutta588@gmail.com",
   website: "https://sduttt.netlify.app/"
@@ -34,4 +49,4 @@ const subham = {
 <br>
 
 
-[![Website](./images/icons8-internet-48.png)](https://sduttt.netlify.app/)[![Linkedin](./images/icons8-linkedin-50.png)](https://www.linkedin.com/in/sduttt/) [![Twitter](./images/icons8-twitterx-50.png)](https://twitter.com/sdutttttt) [![Hashnode](./images/icons8-hashnode-50.png)](https://sdutta.hashnode.dev/) [![Github](./images/icons8-github-50.png)](https://github.com/Sduttt) [![Instagram](./images/icons8-instagram-50.png)](https://www.instagram.com/sdutttttt/) [![Telegram](./images/icons8-telegram-app-50.png)](https://t.me/Mr_dutt) 
+[![Website](./images/icons8-internet-48.png)](https://sduttt.netlify.app/)[![Linkedin](./images/icons8-linkedin-50.png)](https://www.linkedin.com/in/sduttt/) [![Twitter](./images/icons8-twitterx-50.png)](https://twitter.com/sdutttttt) [![Hashnode](./images/icons8-hashnode-50.png)](https://sdutta.hashnode.dev/) [![Github](./images/icons8-github-50.png)](https://github.com/Sduttt) [![Instagram](./images/icons8-instagram-50.png)](https://www.instagram.com/sdutttttt/) 
