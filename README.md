@@ -35,7 +35,7 @@ const subham = {
       duration: "May 2024 - Jan 2025",
       description: "Design website/funnels and configure workflow automations using GoHighLevel CRM"
     }
-  ]
+  ],
   hobby: ["code", "books", "music", "movies"],
   email: "subhamdutta588@gmail.com",
   website: "https://sduttt.netlify.app/"
